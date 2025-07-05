@@ -814,14 +814,14 @@
                             className: "tr__container tr__about__content",
                             children: (0, s.jsx)(N.Z, {
                                 type: "h2",
-                                content: 'NEMER<sup>\xae</sup> has a roaring 20+ years history <br class="hidden sm:block" /> of empowering companies in the <br class="hidden sm:block" />corporate jungle.',
+                                content: 'NEMER<sup>\xae</sup> has a roaring 1+ years history <br class="hidden sm:block" /> of empowering companies in the <br class="hidden sm:block" />corporate jungle.',
                                 customClass: "tr__heading__animation"
                             })
                         }), (0, s.jsx)(Z.Z, {
                             image1URL: S,
-                            text1: "majestic designs since 2000",
+                            text1: "majestic designs since 2024",
                             image2URL: S,
-                            text2: "majestic designs since 2000"
+                            text2: "majestic designs since 2024"
                         })]
                     }), (0, s.jsx)("section", {
                         className: "tr__section tr__home__about__about__page",
@@ -851,10 +851,10 @@
                                         className: "tr__home__about__about__page__wrapper__right",
                                         children: [(0, s.jsx)("p", {
                                             className: "tr__fadeUp",
-                                            children: "Infused with the lion's determination, we partner intimately with clients, exploring their lofty goals and subtle nuances, adeptly shifting from the theoretical to the pragmatic, bringing their vision to fruition."
+                                            children: "Infused with the Tiger's determination, we partner intimately with clients, exploring their lofty goals and subtle nuances, adeptly shifting from the theoretical to the pragmatic, bringing their vision to fruition."
                                         }), (0, s.jsx)("p", {
                                             className: "tr__fadeUp",
-                                            children: "We meticulously craft Web Interfaces, Brands, IOS and Android application designs, and bespoke Web solutions, Content management, and e-commerce development, bringing their vision to life with a roar of creativity."
+                                            children: "We meticulously craft AI Agent, Brands, and bespoke Web solutions, Content management, and e-commerce development, bringing their vision to life with a roar of creativity."
                                         })]
                                     })]
                                 })]
@@ -872,13 +872,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["50", (0, s.jsx)("span", {
+                                            children: ["0", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["50", (0, s.jsx)("span", {
+                                            children: ["0", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -896,13 +896,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["900", (0, s.jsx)("span", {
+                                            children: ["5", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["900", (0, s.jsx)("span", {
+                                            children: ["5", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -920,13 +920,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["2", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["2", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -944,13 +944,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["1", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["1", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -966,7 +966,7 @@
                         className: "tr__section tr__home__clients__says",
                         children: [(0, s.jsx)(k.Z, {
                             sectionTitle: "partner <br /> love",
-                            sectionDesc: "Take heed, as the lion's <br />roar in our client reviews <br />resounds.",
+                            sectionDesc: "Take heed, as the Tiger's <br />roar in our client reviews <br />resounds.",
                             sectionDescPos: "Right",
                             sectionDescCustomClass: "tr__heading__animation"
                         }), (0, s.jsxs)("div", {
@@ -1228,7 +1228,7 @@
                             className: "tr__container tr__awards__content",
                             children: [(0, s.jsx)(k.Z, {
                                 sectionTitle: "honors<br />& awards",
-                                sectionDesc: 'We\'re India\'s top award-winning digital <br class="hidden sm:block" />agency, carving our own path in the digital <br class="hidden sm:block" />jungle, and the journey persists.',
+                                sectionDesc: 'We\'re Jordanin\'s top award-winning digital <br class="hidden sm:block" />agency, carving our own path in the digital <br class="hidden sm:block" />jungle, and the journey persists.',
                                 sectionDescCustomClass: "tr__heading__animation"
                             }), I.awardsData && I.awardsData.map((e, t) => (0, s.jsx)(i.Fragment, {
                                 children: (0, s.jsxs)("div", {

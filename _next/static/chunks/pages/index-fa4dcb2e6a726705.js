@@ -1205,13 +1205,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["50", (0, s.jsx)("span", {
+                                            children: ["0", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["50", (0, s.jsx)("span", {
+                                            children: ["0", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -1229,13 +1229,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["900", (0, s.jsx)("span", {
+                                            children: ["5", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["900", (0, s.jsx)("span", {
+                                            children: ["5", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -1253,13 +1253,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["2", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["2", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -1277,13 +1277,13 @@
                                         className: "tr__home__achieved__block__wrapper__left tr__home__achieved__number",
                                         children: [(0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__one",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["1", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
                                         }), (0, s.jsxs)("div", {
                                             className: "tr__home__achieved__number__two",
-                                            children: ["20", (0, s.jsx)("span", {
+                                            children: ["1", (0, s.jsx)("span", {
                                                 className: "sup",
                                                 children: "+"
                                             })]
@@ -1299,7 +1299,7 @@
                         className: "tr__section tr__home__clients__says",
                         children: [(0, s.jsx)(k.Z, {
                             sectionTitle: "partner <br /> love",
-                            sectionDesc: "Take heed, as the <br />lion's roar in our client <br />reviews resounds.",
+                            sectionDesc: "Take heed, as the <br />Tigers roar in our client <br />reviews resounds.",
                             sectionDescPos: "Right",
                             sectionDescCustomClass: "tr__heading__animation"
                         }), (0, s.jsxs)("div", {
