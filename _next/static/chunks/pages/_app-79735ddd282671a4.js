@@ -15946,24 +15946,7 @@
                 let {
                     darkMode: ta
                 } = ts;
-                return (0, tn.jsx)("section", {
-                    className: "tr__section tr__site__loader tr__overlay",
-                    children: (0, tn.jsxs)("div", {
-                        className: "tr__container tr__site__loader__container",
-                        children: [(0, tn.jsx)("div", {
-                            className: "tr__site__loader__wrapper",
-                            children: (0, tn.jsx)("div", {
-                                className: "w-52 h-52 sm:w-28 sm:h-28 m-auto -mb-6 sm:-mb-3 loader-stagger ".concat("true" == ta ? "" : "mix-blend-difference"),
-                                children: (0, tn.jsx)(ef(), {
-                                    animationData: eb,
-                                    loop: !1
-                                })
-                            })
-                        }), (0, tn.jsx)("p", {
-                            className: "numbers hidden"
-                        })]
-                    })
-                })
+                
             }
             var ew = tr(9008),
                 e_ = tr.n(ew);
