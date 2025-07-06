@@ -486,7 +486,7 @@
                                 className: "w-full max-w-none lg:max-w-[580px] 2xl:max-w-[600px] ml-auto mb-24",
                                 children: (0, n.jsx)("p", {
                                     className: "tr__fadeUp",
-                                    children: "In our creative jungle, designers, thinkers, strategists unite like a lion's roar, crafting vibrant projects resonating with the wild symphony of innovation."
+                                    children: "In our creative jungle, designers, thinkers, strategists unite like a Tiger's roar, crafting vibrant projects resonating with the wild symphony of innovation."
                                 })
                             })]
                         }), (0, n.jsxs)("div", {

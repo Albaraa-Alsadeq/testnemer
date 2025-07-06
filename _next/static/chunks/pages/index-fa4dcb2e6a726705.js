@@ -1617,14 +1617,14 @@
                                     })
                                 }), (0, s.jsx)(k.Z, {
                                     sectionTitle: "",
-                                    sectionDesc: "Like a lion's roar echoing through <br />the jungle, a hint of our creative <br />minds emerges.",
+                                    sectionDesc: "Like a Tiger's roar echoing through <br />the jungle, a hint of our creative <br />minds emerges.",
                                     sectionDescCustomClass: "tr__heading__animation"
                                 }), (0, s.jsx)("div", {
                                     className: "tr__fadeUp",
                                     children: (0, s.jsx)(f.Z, {
                                         buttonType: "link",
                                         buttonTitle: "View Dribbble",
-                                        buttonAction: "https://dribbble.com/NEMERdesign",
+                                        buttonAction: "https://dribbble.com/nemer-agency",
                                         buttonCustomClass: "float-none inline-block m-auto z-1",
                                         buttonTarget: "_blank"
                                     })
