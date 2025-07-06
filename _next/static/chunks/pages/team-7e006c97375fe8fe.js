@@ -380,7 +380,7 @@
                             content: "NEMER\xae"
                         }), (0, n.jsx)("meta", {
                             property: "og:copyright",
-                            content: "hello@NEMER.com"
+                            content: "agencynemer@gmail.com"
                         }), (0, n.jsx)("meta", {
                             name: "twitter:site",
                             content: "@NEMER_design"

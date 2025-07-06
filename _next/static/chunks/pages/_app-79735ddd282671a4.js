@@ -16184,9 +16184,9 @@
                                         }), (0, tn.jsx)("h4", {
                                             className: "overflow-visible",
                                             children: (0, tn.jsx)(tc(), {
-                                                href: "mailto:hello@NEMER.com",
+                                                href: "mailto:agencynemer@gmail.com",
                                                 className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                                children: "hello@NEMER.com"
+                                                children: "agencynemer@gmail.com"
                                             })
                                         })]
                                     }), (0, tn.jsxs)("div", {
@@ -16198,7 +16198,7 @@
                                             children: (0, tn.jsx)(tc(), {
                                                 href: "tel:+919824182099",
                                                 className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                                children: "+91 98241 82099"
+                                                children: "+962 798891693"
                                             })
                                         })]
                                     }), (0, tn.jsx)("div", {
@@ -16335,10 +16335,10 @@
                                 children: [(0, tn.jsx)("p", {
                                     className: "tr__navigations__email tr__cursor__hoverable mb-1 invisible",
                                     children: (0, tn.jsx)("a", {
-                                        href: "mailto:hello@NEMER.com",
+                                        href: "mailto:agencynemer@gmail.com",
                                         className: "inline-block tr__magnetic",
                                         children: (0, tn.jsx)("span", {
-                                            children: "hello@NEMER.com"
+                                            children: "agencynemer@gmail.com"
                                         })
                                     })
                                 }), (0, tn.jsx)("p", {
@@ -16346,7 +16346,7 @@
                                     children: (0, tn.jsx)("a", {
                                         href: "tel:+919824182099",
                                         className: "inline-block tr__magnetic",
-                                        children: "+91 98241 82099"
+                                        children: "+962 798891693"
                                     })
                                 }), (0, tn.jsx)("div", {
                                     className: "tr__navigations__social flex justify-end space-x-1",

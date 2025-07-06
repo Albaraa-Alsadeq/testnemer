@@ -314,7 +314,7 @@
                             content: "NEMER\xae"
                         }), (0, l.jsx)("meta", {
                             property: "og:copyright",
-                            content: "hello@NEMER.com"
+                            content: "agencynemer@gmail.com"
                         }), (0, l.jsx)("meta", {
                             name: "twitter:site",
                             content: "@NEMER_design"
@@ -809,9 +809,9 @@
                                     }), (0, l.jsx)("h4", {
                                         className: "overflow-visible",
                                         children: (0, l.jsx)(d(), {
-                                            href: "mailto:hello@NEMER.com",
+                                            href: "mailto:agencynemer@gmail.com",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "hello@NEMER.com"
+                                            children: "agencynemer@gmail.com"
                                         })
                                     })]
                                 }), (0, l.jsx)("div", {
@@ -835,7 +835,7 @@
                                         children: (0, l.jsx)(d(), {
                                             href: "tel:+919824182099",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "+91 98241 82099"
+                                            children: "+962 798891693"
                                         })
                                     })]
                                 }), (0, l.jsx)("div", {
