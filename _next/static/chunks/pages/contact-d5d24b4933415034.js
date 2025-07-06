@@ -881,7 +881,7 @@
                                     }), (0, l.jsxs)("h4", {
                                         className: "overflow-visible space-x-2 2xl:space-x-4",
                                         children: [(0, l.jsx)(d(), {
-                                            href: "https://dribbble.com/NEMERdesign",
+                                            href: "https://dribbble.com/nemer-agency",
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "Dribbble"
@@ -889,7 +889,7 @@
                                             className: "inline-block",
                                             children: "\xb7"
                                         }), (0, l.jsx)(d(), {
-                                            href: "http://www.linkedin.com/company/2715714",
+                                            href: "https://www.linkedin.com/company/nemer0",
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "LinkedIn"
@@ -897,7 +897,7 @@
                                             className: "inline-block",
                                             children: "\xb7"
                                         }), (0, l.jsx)(d(), {
-                                            href: "https://www.instagram.com/NEMERdesign/",
+                                            href: "https://www.instagram.com/nemer.ai/?hl=ar",
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "Instagram"
@@ -913,7 +913,7 @@
                                             className: "inline-block",
                                             children: "\xb7"
                                         }), (0, l.jsx)(d(), {
-                                            href: "https://www.facebook.com/NEMERagency/",
+                                            href: "https://www.facebook.com/profile.php?id=61577763886434#",
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "Facebook"

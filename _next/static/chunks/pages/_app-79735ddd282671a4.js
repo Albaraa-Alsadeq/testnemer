@@ -18030,15 +18030,15 @@
                 tT = [{
                     name: "Dribbble",
                     icon: "/assets/images/socials/dribble.svg",
-                    url: "https://dribbble.com/NEMERdesign"
+                    url: "https://dribbble.com/nemer-agency"
                 }, {
                     name: "LinkedIn",
                     icon: "/assets/images/socials/linkedin.svg",
-                    url: "http://www.linkedin.com/company/2715714"
+                    url: "https://www.linkedin.com/company/nemer0"
                 }, {
                     name: "Instagram",
                     icon: "/assets/images/socials/instagram.svg",
-                    url: "https://www.instagram.com/NEMERdesign/"
+                    url: "https://www.instagram.com/nemer.ai/?hl=ar"
                 }, {
                     name: "Behance",
                     icon: "/assets/images/socials/behance.svg",
@@ -18046,7 +18046,7 @@
                 }, {
                     name: "Facebook",
                     icon: "/assets/images/socials/facebook.svg",
-                    url: "https://www.facebook.com/NEMERagency/"
+                    url: "https://www.facebook.com/profile.php?id=61577763886434#"
                 }],
                 tL = [{
                     name: "design",
