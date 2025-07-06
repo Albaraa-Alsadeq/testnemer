@@ -267,7 +267,7 @@ html {
   background-color: #121315;
   font-weight: 400;
   color: #e0eeee;
-  scrollbar-color: rgba(197, 252, 252, 0.5) #121315;
+  scrollbar-color: rgba(205, 145, 85) #121315;
 }
 ::-webkit-scrollbar {
   height: 12px;
@@ -275,7 +275,7 @@ html {
   background: #121315;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(197, 252, 252, 0.5);
+  background: rgba(205, 145, 85);
   -webkit-border-radius: 1ex;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
 }
