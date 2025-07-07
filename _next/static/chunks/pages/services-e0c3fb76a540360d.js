@@ -283,7 +283,7 @@
                                 className: "tr__services__wrapper",
                                 children: [(0, r.jsx)(p.Z, {
                                     type: "h2",
-                                    content: "We're here to make tech businesses roar in the digital jungle, crafting valuable impact through design, branding, and development services.",
+                                    content: "We're here to make your  businesses roar in the digital jungle, crafting valuable impact through design, branding, and development services.",
                                     customClass: "tr__heading__animation mb-10"
                                 }), (0, r.jsx)("p", {
                                     className: "w-full lg:w-6/12 ml-auto pl-1 tr__fadeUp",

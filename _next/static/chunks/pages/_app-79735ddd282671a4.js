@@ -15935,7 +15935,7 @@
                     path: "/services"
                 }, {
                     title: "team",
-                    path: "/team"
+                    path: "xx.html"
                 }, {
                     title: "contact",
                     path: "/contact"
@@ -18035,22 +18035,22 @@
                     name: "design",
                     description: "Your designs, a fierce roar in the digital wilderness, carve an indelible social footprint, capturing the very essence of your unique identity.",
                     lists: {
-                        left: ["User interface", "User experience", "Websites", "Visual design", "Prototypes"],
-                        right: ["Web & Mobile apps", "SaaS product design", "Design systems", "Interaction design"]
+                        left: ["Graphic designs", "", "video editing", "Video design", ""],
+                        right: ["Print Design", "Packaging Design", "Illustration", ""]
                     }
                 }, {
                     name: 'develop<br class="hidden sm:block" />ment',
                     description: "In this design jungle, we don't just roar concepts; we bring them to life with practicality, emphasizing micro animations and interactions.",
                     lists: {
-                        left: ["React JS", "Next JS", "Node JS", "Angular JS", "WordPress", "Magento", "Shopify", "Laravel", "PHP"],
-                        right: ["HTML5 & CSS3", "LESS & SASS", "Bootstrap", "Tailwind", "Foundation", "Javascript", "jQuery"]
+                        left: ["AI Agent", "chat bot",  "computer vision", "ML", "NLP", "WEB DEV", "cyber security", "", ""],
+                        right: ["HTML5 & CSS3", "Python", "SQL", "Java", "", "Javascript", ""]
                     }
                 }, {
                     name: 'brand<br class="hidden sm:block" />ing',
                     description: "Our goal is your brand's wild influence. Exclusive logos, mockups, and corporate identities make your unique value stand out.",
                     lists: {
                         left: ["Visual identity", "Branding strategy", "Mockups"],
-                        right: ["Graphic designs", "Style guide", "Typography"]
+                        right: ["Branding Design", "Advertising Design", ""]
                     }
                 }],
                 tF = [{

@@ -842,7 +842,7 @@
                                             children: (0, s.jsx)(d.Z, {
                                                 buttonType: "link",
                                                 buttonTitle: "NEMER\xae name story",
-                                                buttonAction: "/namestory",
+                                                buttonAction: "xx.html",
                                                 buttonCustomClass: "",
                                                 handleRouterClick: o
                                             })
