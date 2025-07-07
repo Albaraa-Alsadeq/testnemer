@@ -18042,8 +18042,8 @@
                     name: 'develop<br class="hidden sm:block" />ment',
                     description: "In this design jungle, we don't just roar concepts; we bring them to life with practicality, emphasizing micro animations and interactions.",
                     lists: {
-                        left: ["AI Agent", "chat bot",  "computer vision", "ML", "NLP", "WEB DEV", "cyber security", "", ""],
-                        right: ["HTML5 & CSS3", "Python", "SQL", "Java", "", "Javascript", ""]
+                        left: ["AI Agent", "chat bot",  "computer vision", "ML", "NLP", "WEB DEV", "", "", ""],
+                        right: ["HTML5 & CSS3", "Python", "SQL", "Java", "", "Javascript", "cyber security"]
                     }
                 }, {
                     name: 'brand<br class="hidden sm:block" />ing',
@@ -18054,20 +18054,20 @@
                     }
                 }],
                 tF = [{
-                    name: "Research and Planning",
-                    description: '<span class="tr__fadeUp">Project Planning </span><span class="tr__fadeUp">Expectations Setting </span><span class="tr__fadeUp">Competitor Analysis </span><span class="tr__fadeUp">Digital Strategy </span><span class="tr__fadeUp">UX Research</span>'
+                    name: "Requirements Gathering & Analysis",
+                    description: '<span class="tr__fadeUp">-Gather detailed functional & non-functional needs </span><span class="tr__fadeUp">-Define clear scope </span><span class="tr__fadeUp">-Create an SRS - Software Requirements Specification document. </span><span class="tr__fadeUp"> </span><span class="tr__fadeUp"></span>'
                 }, {
-                    name: "Creativity and UX Design",
-                    description: '<span class="tr__fadeUp">Visual Moodboards </span><span class="tr__fadeUp">User Interface Design </span><span class="tr__fadeUp">User Experience Design </span><span class="tr__fadeUp">Interaction Design </span><span class="tr__fadeUp">Design System</span>'
+                    name: "Project Planning",
+                    description: '<span class="tr__fadeUp">-Break down the project into detailed tasks, milestones, and sprints. </span><span class="tr__fadeUp">-Estimate time and cost.</span><span class="tr__fadeUp">-Build a timeline (Gantt chart / Sprint board).</span><span class="tr__fadeUp"></span><span class="tr__fadeUp"></span>'
                 }, {
-                    name: "Technology and Development",
-                    description: '<span class="tr__fadeUp">Web Development </span><span class="tr__fadeUp">Front-end Development </span><span class="tr__fadeUp">Custom CMS Integrations </span><span class="tr__fadeUp">E-commerce Development </span><span class="tr__fadeUp">SAAS Implementation</span>'
+                    name: "Implementation",
+                    description: '<span class="tr__fadeUp">-Develop the application in phases according to the development plan.</span><span class="tr__fadeUp">-Follow Clean Code and SOLID principles to ensure maintainability.</span><span class="tr__fadeUp">-Perform unit testing alongside development. </span><span class="tr__fadeUp"></span><span class="tr__fadeUp"></span>'
                 }, {
-                    name: "Testing and Launch",
-                    description: '<span class="tr__fadeUp">Usability testing </span><span class="tr__fadeUp">Performance testing  </span><span class="tr__fadeUp">Functionality testing </span><span class="tr__fadeUp">Security testing </span><span class="tr__fadeUp">Integration testing</span>'
+                    name: "Testing ",
+                    description: '<span class="tr__fadeUp">-Conduct integration testing. </span><span class="tr__fadeUp">-Facilitate User Acceptance Testing (UAT) with stakeholders. </span><span class="tr__fadeUp">-Run performance and security tests. </span><span class="tr__fadeUp"> </span><span class="tr__fadeUp"></span>'
                 }, {
-                    name: "Evaluate and Evolve",
-                    description: '<span class="tr__fadeUp">Reviews </span><span class="tr__fadeUp">Website optimisation </span><span class="tr__fadeUp">3rd Party Evaluation </span><span class="tr__fadeUp">Server performance </span><span class="tr__fadeUp">Improvement</span>'
+                    name: "Deployment and Launch",
+                    description: '<span class="tr__fadeUp">-Prepare the production environment. </span><span class="tr__fadeUp">-Roll out the project gradually (staged rollout) to mitigate risks. </span><span class="tr__fadeUp">-Monitor logs and system stability. </span><span class="tr__fadeUp"></span><span class="tr__fadeUp"></span>'
                 }],
                 tP = [{
                     name: "Sunny Rathod",
@@ -18077,7 +18077,7 @@
                     contact: [{
                         name: "Linkedin",
                         icon: "/assets/images/socials/linkedin.svg",
-                        url: "https://www.linkedin.com/in/sunnyrathod/"
+                        url: ""
                     }]
                 }, {
                     name: "Prabhatsinh Maka",
