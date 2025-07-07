@@ -293,7 +293,7 @@
                             children: "NEMER | Contact Us"
                         }), (0, l.jsx)("meta", {
                             name: "description",
-                            content: "NEMER\xae - Your Design, Development, and Branding Partner in Rajkot, Gujarat, India."
+                            content: "NEMER\xae - Your Design, Development, and Branding Partner in Amman, Jordan"
                         }, "desc"), (0, l.jsx)("meta", {
                             property: "og:type",
                             content: "website"
@@ -305,7 +305,7 @@
                             content: "NEMER | Contact Us"
                         }), (0, l.jsx)("meta", {
                             property: "og:description",
-                            content: "NEMER\xae - Your Design, Development, and Branding Partner in Rajkot, Gujarat, India."
+                            content: "NEMER\xae - Your Design, Development, and Branding Partner in Amman, Jordan"
                         }), (0, l.jsx)("meta", {
                             property: "og:image",
                             content: v.ogLogo.src
@@ -788,7 +788,7 @@
                                         })]
                                     }), (0, l.jsx)(g.Z, {
                                         type: "h4",
-                                        content: 'NEMER<sup class="text-base">&reg;</sup> <br class="hidden sm:block" /><br />216 - 217 4Plus Complex <br />Astron chowk, Rajkot 01 <br />Gujarat, India.'
+                                        content: 'NEMER<sup class="text-base">&reg;</sup> <br class="hidden sm:block" /><br /> <br />Amman <br />Jordan'
                                     })]
                                 }), (0, l.jsx)("div", {
                                     className: "tr__fadeUp h-8",

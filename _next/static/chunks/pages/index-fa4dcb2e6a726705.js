@@ -951,7 +951,7 @@
                             children: "NEMER | Crafting Award-Winning Digital Journeys."
                         }), (0, s.jsx)("meta", {
                             name: "description",
-                            content: "NEMER\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Rajkot, Gujarat, India."
+                            content: "NEMER\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development Amman, Jordan."
                         }, "desc"), (0, s.jsx)("meta", {
                             property: "og:type",
                             content: "website"
@@ -963,7 +963,7 @@
                             content: "NEMER | Crafting Award-Winning Digital Journeys."
                         }), (0, s.jsx)("meta", {
                             property: "og:description",
-                            content: "NEMER\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Rajkot, Gujarat, India."
+                            content: "NEMER\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Amman, Jordan"
                         }), (0, s.jsx)("meta", {
                             property: "og:image",
                             content: Z.ogLogo.src

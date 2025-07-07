@@ -815,7 +815,7 @@
                                 children: ["TRIONN | ", e.client.replace(/(<([^>]+)>)/ig, "")]
                             }), (0, i.jsx)("meta", {
                                 name: "description",
-                                content: "Trionn\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Rajkot, Gujarat, India."
+                                content: "Trionn\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Amman, Jordan"
                             }, "desc"), (0, i.jsx)("meta", {
                                 property: "og:type",
                                 content: "website"
@@ -827,7 +827,7 @@
                                 content: "TRIONN | ".concat(e.client.replace(/(<([^>]+)>)/ig, ""))
                             }), (0, i.jsx)("meta", {
                                 property: "og:description",
-                                content: "Trionn\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Rajkot, Gujarat, India."
+                                content: "Trionn\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Amman, Jordan"
                             }), (0, i.jsx)("meta", {
                                 property: "og:image",
                                 content: C.ogLogo.src
