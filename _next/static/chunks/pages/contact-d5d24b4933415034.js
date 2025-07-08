@@ -314,7 +314,7 @@
                             content: "NEMER\xae"
                         }), (0, l.jsx)("meta", {
                             property: "og:copyright",
-                            content: "agencynemer@gmail.com"
+                            content: "info@nemer.agency"
                         }), (0, l.jsx)("meta", {
                             name: "twitter:site",
                             content: "@NEMER_design"
@@ -809,9 +809,9 @@
                                     }), (0, l.jsx)("h4", {
                                         className: "overflow-visible",
                                         children: (0, l.jsx)(d(), {
-                                            href: "mailto:agencynemer@gmail.com",
+                                            href: "mailto: info@nemer.agency",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "agencynemer@gmail.com"
+                                            children: "info@nemer.agency"
                                         })
                                     })]
                                 }), (0, l.jsx)("div", {

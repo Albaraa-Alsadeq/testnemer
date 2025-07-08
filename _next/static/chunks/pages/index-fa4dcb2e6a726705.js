@@ -972,7 +972,7 @@
                             content: "NEMER\xae"
                         }), (0, s.jsx)("meta", {
                             property: "og:copyright",
-                            content: "agencynemer@gmail.com"
+                            content: "info@nemer.agency"
                         }), (0, s.jsx)("meta", {
                             name: "twitter:site",
                             content: "@NEMER_design"

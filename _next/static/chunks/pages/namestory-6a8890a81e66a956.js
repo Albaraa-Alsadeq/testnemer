@@ -214,7 +214,7 @@
                             content: "NEMER\xae"
                         }), (0, n.jsx)("meta", {
                             property: "og:copyright",
-                            content: "agencynemer@gmail.com"
+                            content: "info@nemer.agency"
                         }), (0, n.jsx)("meta", {
                             name: "twitter:site",
                             content: "@NEMER_design"

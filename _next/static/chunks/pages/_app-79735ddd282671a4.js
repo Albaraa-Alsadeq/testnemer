@@ -16167,9 +16167,9 @@
                                         }), (0, tn.jsx)("h4", {
                                             className: "overflow-visible",
                                             children: (0, tn.jsx)(tc(), {
-                                                href: "mailto:agencynemer@gmail.com",
+                                                href: "mailto:info@nemer.agency",
                                                 className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                                children: "agencynemer@gmail.com"
+                                                children: "info@nemer.agency"
                                             })
                                         })]
                                     }), (0, tn.jsxs)("div", {
@@ -16318,10 +16318,10 @@
                                 children: [(0, tn.jsx)("p", {
                                     className: "tr__navigations__email tr__cursor__hoverable mb-1 invisible",
                                     children: (0, tn.jsx)("a", {
-                                        href: "mailto:agencynemer@gmail.com",
+                                        href: "mailto:info@nemer.agency",
                                         className: "inline-block tr__magnetic",
                                         children: (0, tn.jsx)("span", {
-                                            children: "agencynemer@gmail.com"
+                                            children: "info@nemer.agency"
                                         })
                                     })
                                 }), (0, tn.jsx)("p", {
